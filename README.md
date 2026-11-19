@@ -4,6 +4,7 @@ ABAP Cloud S4D 401
 
 ![ABAP](https://img.shields.io/badge/language-ABAP-0FAAFF)
 ![Environment](https://img.shields.io/badge/ADT-Eclipse-2C2255)
+![Course](https://img.shields.io/badge/course-S4D401-1F6FEB)
 ![Status](https://img.shields.io/badge/status-%20done-brightgreen)
 
 My solutions to the exercises of the ABAP course (S4D401), written in
