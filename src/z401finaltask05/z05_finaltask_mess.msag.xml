@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z05_FINALTASK_MESS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z05_FINALTASK_MESS</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Warning: The load capacity of truck &amp;1 &amp;2 is less than 2,000kg. Max is &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z05_FINALTASK_MESS</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Warning: This bus &amp;1 &amp;2 has only &amp;3 seats!</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
