@@ -1,10 +1,10 @@
 # ABAP_CLOUD
 ABAP Cloud S4D 401
-# ABAP Kurs: SD400 / D401 exercises
+# ABAP Kurs: D401 (+exercises)
 
 ![ABAP](https://img.shields.io/badge/language-ABAP-0FAAFF)
 ![Environment](https://img.shields.io/badge/ADT-Eclipse-2C2255)
-![Status](https://img.shields.io/badge/status-in%20progress-brightgreen)
+![Status](https://img.shields.io/badge/status-%20done-brightgreen)
 
 My solutions to the exercises of the ABAP course (S4D401), written in
 **ABAP Development Tools (Eclipse)**. The repository is exported from the SAP system with
